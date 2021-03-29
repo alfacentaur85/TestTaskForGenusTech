@@ -1,8 +1,7 @@
 {
   "profiles": {
     "CompareTxtFiles": {
-      "commandName": "Project",
-      "commandLineArgs": "d:\\Original.txt d:\\Modified.txt"
+      "commandName": "Project"
     }
   }
 }
